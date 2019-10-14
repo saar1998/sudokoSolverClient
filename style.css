@@ -1,0 +1,42 @@
+h1 {
+  position: relative;
+  left: 34%;
+  top: 10%;
+}
+
+td input {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-width: 0;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+}
+
+td {
+  border:1px solid black;
+}
+
+.darkend-cell {
+  background-color: gray;
+}
+
+table {
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 60%;
+  table-layout: fixed;
+}
+
+button {
+  position: absolute;
+  left: 70%;
+  top: 50%;
+}
+
+.btn-secondary {
+  top: 60%;
+}
